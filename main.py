@@ -39,5 +39,16 @@ say_shynakov()
 print_to_three()
 multiplication_table_bu_2()
 print_square(5)
+
+\\\\
 print_max(10, 20)
 check_age(19)
+print("Изменино на GitHub")
+
+
+
+
+
+
+
+
